@@ -17,8 +17,11 @@ A clean and minimal **Image Slider** built using HTML, CSS, and JavaScript. This
 ## 📂 Folder Structure
 
 Image-slider/
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling for the slider
+
 └── script.js # JavaScript for slider functionality
 
 ## 🚀 Getting Started
