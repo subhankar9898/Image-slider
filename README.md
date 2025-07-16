@@ -50,5 +50,5 @@ Feel free to connect with me!
 
 * **Your Name:** Subhankar Prusty
 * **Email:** [subhankar99p@gmail.com]
-* **LinkedIn:** [Check here👉🏼](https://www.linkedin.com/in/subhankar-prusty-81160b223)
+* **LinkedIn:** [Subhankar Prusty](https://www.linkedin.com/in/subhankar-prusty-81160b223)
 * **GitHub:** [https://github.com/subhankar9898](https://github.com/subhankar9898)
